@@ -1,4 +1,4 @@
-# wcct2016
+## wcct2016
 WordCamp CT 2016: Taking WordPress to the App Store
 
 ## Things to do before the Workshop
